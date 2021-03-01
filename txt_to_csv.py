@@ -7,8 +7,8 @@ Created on Sun Feb 14 17:24:38 2021
 
 import os
 
-path = r'C:\Users\Mr\Documents\GitHub\Workshop-ML-Automatisierte-Inhaltsanalyse\Kubilari_clean'
-pathnew = r'C:\C:\Users\Mr\Documents\GitHub\Workshop-ML-Automatisierte-Inhaltsanalyse'
+path = r'C:\Users\lux\Documents\GitHub\HTW\master_thesis\Copy_Workshop_ML_Automatisierte_Inhaltsanalyse\Kubilari_clean'
+pathnew = r'C:\Users\lux\Documents\GitHub\HTW\master_thesis\Copy_Workshop_ML_Automatisierte_Inhaltsanalyse'
 
 
 dir = []
